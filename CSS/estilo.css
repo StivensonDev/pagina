@@ -27,3 +27,9 @@ body{
     background: darkblue;
     border: 6px solid greenyellow;
 }
+
+.comentario{
+    color: red;
+    font-size: 30px;
+    border: 1px solid black;
+}
