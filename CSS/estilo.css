@@ -28,18 +28,9 @@ body{
     border: 6px solid greenyellow;
 }
 
-.cabecera{
-    color: darkviolet;
-    font-size: 25px;
-    background-color: indianred;
-    border: 2px solid black;
-    padding: 20px;
-    margin: 20px auto;
-
-}
-
-.piePagina{
+.titulo{
     color: black;
-    font-size: 20px;
-    margin: 27px;
+    font-size: 26px;
+    
 }
+
