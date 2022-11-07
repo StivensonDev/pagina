@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container{
+    background-color: lightcyan;
+    border: 3px solid red;
+    border-width: thick;
+    color: darkblue;
+}
+
+.secundario{
+    margin: 30px auto;
+    padding: 10px;
+    border: 2px solid green;
+    border-width: thin;
+    background-color: lightsalmon;
+    color: blue;
+}
+
+.footer{
+    color: lime;
+    font-size: 20px;
+    font-weight: bold;
+    background: darkblue;
+    border: 6px solid greenyellow;
+}
